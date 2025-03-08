@@ -1,6 +1,7 @@
 #ifndef APP_HPP
 #define APP_HPP
 
+
 #include "pch.hpp" // IWYU pragma: export
 
 class App {
